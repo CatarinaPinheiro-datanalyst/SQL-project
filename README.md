@@ -82,8 +82,9 @@ This project performs an **SQL**-based analysis of sales data from the `df_order
 3. Run the provided SQL queries to extract insights.
 
 ## 📎 Repository Files
-- `df_orders_SQL.sql` - SQL script containing the queries.
-- `README.md` - This document describing the project.
+- [df_orders_SQL.sql](https://github.com/CatarinaPinheiro-datanalyst/SQL-project/blob/main/df_orders_SQL.sql) - SQL script containing the queries.
+- [df_orders.csv](https://github.com/CatarinaPinheiro-datanalyst/SQL-project/blob/main/df_orders.csv) - Dataset used.
+- README.md - This document describing the project.
 
 ## 📢 Contributions
 Feel free to fork this repository, submit issues, or open a pull request with improvements.
