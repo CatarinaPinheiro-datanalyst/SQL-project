@@ -1,6 +1,4 @@
-# SQL-project
-
-# 📊 SQL Sales Analysis
+# 📊 SQL Project- Sales Analysis
 
 ## 📌 About the Project
 This project performs an **SQL**-based analysis of sales data from the `df_orders` table. It includes revenue insights, top-performing products, regional sales distribution, and year-over-year growth trends.
@@ -91,5 +89,5 @@ This project performs an **SQL**-based analysis of sales data from the `df_order
 Feel free to fork this repository, submit issues, or open a pull request with improvements.
 
 ## 📧 Contact
-For questions or suggestions, reach out via [email](catarinafvp@gmail.com) or [LinkedIn]: (linkedin.com/in/catarina-pinheiro-a1b987186).
+For questions or suggestions, reach out via [email](mailto:catarinafvp@gmail.com) or [LinkedIn](https://linkedin.com/in/catarina-pinheiro-a1b987186).
 
